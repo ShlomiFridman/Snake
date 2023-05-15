@@ -1,6 +1,6 @@
 Snake
 
-The project uses JavaFX GUI, and need JDK11 to open.
+The project uses JavaFX GUI, requires bellsoft jdk11.
 A retro snake game, move the snake via arrow keys or wasd,
 you do not die on touching the edges
 
